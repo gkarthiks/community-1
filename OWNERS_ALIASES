@@ -126,6 +126,10 @@ aliases:
   wg-multitenancy-leads:
     - srampal
     - tashimi
+  wg-naming-leads:
+    - celestehorgan
+    - justaugustus
+    - zacharysarah
   wg-policy-leads:
     - ericavonb
     - hannibalhuang
